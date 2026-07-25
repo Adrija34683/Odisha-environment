@@ -1,0 +1,1 @@
+forest_loss_rate = 1.13  # replace with your real calculated value

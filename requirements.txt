@@ -1,0 +1,7 @@
+streamlit
+earthengine-api
+scikit-learn
+pandas
+numpy
+geopy
+joblib
